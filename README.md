@@ -10,3 +10,4 @@ YOLO: https://colab.research.google.com/drive/18KDW3zoKt_popradpA7XNGvMwcuBJpAQ#
 
 WEEK3
 OpenCV: https://colab.research.google.com/drive/1MfCW7XWF0SqzCjVzRxfixFkbTgHPqsCd#scrollTo=d6659747-9da3-48a3-9ee9-0858f62b702f
+CNN: https://colab.research.google.com/drive/1Msq4OYfqw0SIN8R6WXI1XcjAKwGBQ9y8#scrollTo=_BkSZvLLLYF8
